@@ -55,15 +55,6 @@ update the DH parameters of the link configuration and end effector configuratio
 
 ### SIMULATION 
 ![e1](https://user-images.githubusercontent.com/94154854/174337014-2f2e8f5f-a9ca-45e9-a8dc-d717e9e9ef46.png)
-
- 
- 
- 
- 
- 
- 
- 
- ### PLOT 
  ![e2](https://user-images.githubusercontent.com/94154854/174337073-6ccb69b4-2c22-4181-ab99-d2d4fb472340.png)
 
  
@@ -95,3 +86,4 @@ update the DH parameters of the link configuration and end effector configuratio
 
 
 ### RESULTS :  
+The inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer has been analyzed.
