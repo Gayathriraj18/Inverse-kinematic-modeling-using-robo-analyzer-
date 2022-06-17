@@ -54,6 +54,7 @@ update the DH parameters of the link configuration and end effector configuratio
 
 
 ### SIMULATION 
+ https://github.com/Gayathriraj18/Inverse-kinematic-modeling-using-robo-analyzer-/blob/main/e1.png
  
  
  
